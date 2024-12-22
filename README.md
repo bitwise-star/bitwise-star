@@ -13,7 +13,7 @@
 > **Figma**<br>
 > *Looking to study more about UI and UX*
 
-## ⚙️ Back-end
+## ⚙️ Back-end:
 > **Node.js** (Javascript/Typescript) and **LUAU** (Roblox Lua Scripting)<br>
 > **Mysql**, **MariaDB** and **SQLite**<br>
 > *Learning more about design patterns and other concepts to improve my code!*
